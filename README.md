@@ -12,7 +12,7 @@ This is a simple FastAPI application that returns JSON data containing:
 - **Response Format:**
 ```json
 {
-  "email": "your-email@example.com",
+  "email": "crystalokd@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "github_url":"https://github.com/crystalokd/backend-"
 }

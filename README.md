@@ -10,6 +10,10 @@ This is a simple FastAPI application that returns JSON data containing:
 - **Base URL:** `https://backend-7gx7.onrender.com/`
 - **Method:** `GET`
 - **Response Format:**
+
+  ## **References**
+- [Hire Python Developers - HNG](https://hng.tech/hire/python-developers)
+
 ```json
 {
   "email": "crystalokd@gmail.com",
@@ -17,5 +21,3 @@ This is a simple FastAPI application that returns JSON data containing:
   "github_url": "github_url":"https://github.com/crystalokd/backend-"
 }
 
-## **References**
-- [Hire Python Developers - HNG](https://hng.tech/hire/python-developers)

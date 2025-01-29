@@ -17,5 +17,5 @@ This is a simple FastAPI application that returns JSON data containing:
   "github_url": "github_url":"https://github.com/crystalokd/backend-"
 }
 
-## References
+## **References**
 - [Hire Python Developers - HNG](https://hng.tech/hire/python-developers)

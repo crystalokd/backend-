@@ -1,0 +1,18 @@
+# HNG12 Stage 0 Task - Public API
+
+## Description
+This is a simple FastAPI application that returns JSON data containing:
+- My email address
+- The current UTC datetime
+- The GitHub repository URL
+
+## Endpoint
+- **Base URL:** `https://your-deployed-url.com/`
+- **Method:** `GET`
+- **Response Format:**
+```json
+{
+  "email": "your-email@example.com",
+  "current_datetime": "2025-01-30T09:30:00Z",
+  "github_url": "https://github.com/yourusername/your-repo"
+}

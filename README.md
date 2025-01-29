@@ -7,7 +7,7 @@ This is a simple FastAPI application that returns JSON data containing:
 - The GitHub repository URL
 
 ## Endpoint
-- **Base URL:** `https://your-deployed-url.com/`
+- **Base URL:** `https://backend-7gx7.onrender.com/`
 - **Method:** `GET`
 - **Response Format:**
 ```json
